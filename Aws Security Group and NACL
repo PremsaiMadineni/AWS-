@@ -1,4 +1,4 @@
--->  Aws Security Group and NACL 
+-->  Aws Security Group and NACL(network access control list)
 Steps:- 
 Create vpc
 Create ec2 instances 
