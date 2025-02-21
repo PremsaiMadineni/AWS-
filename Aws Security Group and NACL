@@ -5,3 +5,5 @@ Launch instances :--
 Sudo apt update ---- > updating all pckg
 Checkpython3 install or not
 Python3 -m http.server 8000    ---- > http python3 server
+
+![Image](https://github.com/user-attachments/assets/afa7a9d7-fa21-43e7-8fe5-143865d30582)
