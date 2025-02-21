@@ -7,21 +7,11 @@ Sudo apt update ---- > updating all pckg
 Checkpython3 install or not
 Python3 -m http.server 8000    ---- > http python3 server
 
-![Image](https://github.com/user-attachments/assets/531442a4-d970-4a4a-a0fa-38eb24361971)
-
-![Image](https://github.com/user-attachments/assets/266a3042-eac7-4605-867f-152df4c112a8)
+![Image](https://github.com/user-attachments/assets/bfad6261-06bc-4b27-a272-27152ae5b6ec)
 
 NACL:
 Removing All traffic 
 
-![Image](https://github.com/user-attachments/assets/fd0ba69b-422a-488c-a4e1-63612e3c00a6)
 
-Blocking 8000 port 
-![Image](https://github.com/user-attachments/assets/1485a50c-2572-4c4e-9dd1-81221194ea85)
-![Image](https://github.com/user-attachments/assets/bd36ec14-a9bc-4399-ade8-d178723af9d8)
-
-![Image](https://github.com/user-attachments/assets/fe435f5b-150c-42ef-b111-414d0594f60f)
-
-![Image](https://github.com/user-attachments/assets/afbdbccb-ac60-47e7-a6c2-cd5131cab09a)
 
 
