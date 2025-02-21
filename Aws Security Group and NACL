@@ -7,3 +7,19 @@ Checkpython3 install or not
 Python3 -m http.server 8000    ---- > http python3 server
 
 https://github.com/user-attachments/assets/15c18d6a-0a50-4134-a0df-775c45e5bdb2
+
+![Image](https://github.com/user-attachments/assets/36ea7046-9045-4a52-8db6-e5811feda16a)
+
+NACL:
+Removing All traffic 
+
+![Image](https://github.com/user-attachments/assets/890d2a7f-1a5f-498b-9356-d298998caf6f)
+
+Blocking 8000 port 
+![Image](https://github.com/user-attachments/assets/e243c50c-b2b9-4554-96e8-ae447573047d)
+
+![Image](https://github.com/user-attachments/assets/06bfa5f9-48c0-4f8c-87af-f08890aaefcf)
+
+![Image](https://github.com/user-attachments/assets/3dbd0ba4-06a2-4656-b1e9-b005ba2cb3ba)
+
+![Image](https://github.com/user-attachments/assets/9a0d0abb-eed5-4eec-959a-b17d760bacfe)
